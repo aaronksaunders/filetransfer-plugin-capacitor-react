@@ -1,0 +1,7 @@
+{
+  "name": "myAppEmpty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
